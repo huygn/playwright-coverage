@@ -598,7 +598,7 @@ __metadata:
     "@types/node": ^16.9.3
     "@types/node-fetch": ^2
     comlink: ^4.3.1
-    istanbul-lib-coverage: ^3.0.0
+    istanbul-lib-coverage: ^3.0.2
     istanbul-lib-report: ^3.0.0
     istanbul-reports: ^3.0.2
     micromatch: ^4.0.4
@@ -1258,6 +1258,13 @@ __metadata:
   version: 3.0.0
   resolution: "istanbul-lib-coverage@npm:3.0.0"
   checksum: ea57c2428858cc5d1e04c0e28b362950bbf6415e8ba1235cdd6f4c8dc3c57cb950db8b4e8a4f7e33abc240aa1eb816dba0d7285bdb8b70bda22bb2082492dbfc
+  languageName: node
+  linkType: hard
+
+"istanbul-lib-coverage@npm:^3.0.2":
+  version: 3.2.0
+  resolution: "istanbul-lib-coverage@npm:3.2.0"
+  checksum: a2a545033b9d56da04a8571ed05c8120bf10e9bce01cf8633a3a2b0d1d83dff4ac4fe78d6d5673c27fc29b7f21a41d75f83a36be09f82a61c367b56aa73c1ff9
   languageName: node
   linkType: hard
 
